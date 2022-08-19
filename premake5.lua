@@ -88,7 +88,7 @@ project "GLFW"
         symbols "on"
     
     filter "configurations:Dist"
-        runtime "Dist"
+        runtime "Release"
         symbols "on"
 
     symbols "off"
